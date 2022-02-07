@@ -1,0 +1,13 @@
+bokeh
+box2d-py
+multitasking 
+yfinance 
+TA-Lib
+
+
+
+Failed to build box2d-py bokeh multitasking yfinance TA-Lib
+
+
+
+

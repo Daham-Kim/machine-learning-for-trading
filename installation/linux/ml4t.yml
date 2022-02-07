@@ -510,12 +510,12 @@ dependencies:
   - zope.interface=5.4.0
   - zstd=1.5.0
   - pip:
-    - backtrader==1.9.76.123
-    - cvxpy==1.1.15
-    - ecos==2.0.7.post1
-    - livelossplot==0.5.4
-    - osqp==0.6.2.post0
-    - pymdptoolbox==4.0b3
-    - pyportfolioopt==1.4.2
-    - qdldl==0.1.5.post0
-    - scs==2.1.4
+      - backtrader==1.9.76.123
+      - cvxpy==1.1.15
+      - ecos==2.0.7.post1
+      - livelossplot==0.5.4
+      - osqp==0.6.2.post0
+      - pymdptoolbox==4.0b3
+      - pyportfolioopt==1.4.2
+      - qdldl==0.1.5.post0
+      - scs==2.1.4

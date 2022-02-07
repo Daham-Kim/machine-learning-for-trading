@@ -1,0 +1,23 @@
+# environment
+*.swp
+.ropeproject
+
+# python
+*.pyc
+
+# this project
+.env.fish
+.cache
+**/log/*
+sftp-config.json
+sftp-config-temp.json
+tags
+.ctags
+/ml4t
+
+# pytest, coverage
+.env
+.coverage
+/htmlcov
+/testcov
+.idea
