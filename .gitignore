@@ -22,6 +22,5 @@ tags
 /testcov
 .idea
 
-/data
-/data/assets.h5
-/data/wiki_prices.csv
+data/
+
